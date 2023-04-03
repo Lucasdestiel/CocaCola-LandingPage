@@ -1,2 +1,2 @@
 # CocaCola-LandingPage
-Landing page da Coca-Cola com html e css
+Landing Coca-Cola com html e css
